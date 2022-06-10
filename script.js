@@ -1,4 +1,4 @@
-import { getIdols } from "./api";
+import { getIdols } from "./api.js";
 
 const createElement = ({ tagName = 'div', attributes = {}, classes = [], styles = {}, textContent = null }) => {
   const element = document.createElement(tagName);
