@@ -1,0 +1,1 @@
+# isedol-history
